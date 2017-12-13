@@ -23,5 +23,5 @@ anpangzi.py -t 192.168.0.1 -p 5555 -u C:\\test.exe -d /www/
 ```
 - **远程执行命令**
 ```
-sanpangzi.py -t 192.168.0.1 -p 5555 -l -e "cat /etc/passwd"
+sanpangzi.py -t 192.168.0.1 -p 5555 -e "cat /etc/passwd"
 ```
